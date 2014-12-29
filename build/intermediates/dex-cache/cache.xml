@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\build\intermediates\pre-dexed\debug\httpmime-4.3.1-324206422b4b1ec9aef54fd0ec9616650064c52e.jar"
+        jar="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\libs\httpmime-4.3.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f49e2348b768a7199e021a97e951df25cd5fb714"/>
+    <item
+        dex="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\build\intermediates\pre-dexed\debug\android-support-v4-cc3ad7c6535629b6cae36290ecb715f241f76691.jar"
+        jar="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f"/>
+    <item
+        dex="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\build\intermediates\pre-dexed\debug\httpcore-4.3-741f5dd96033e704648613a21926b197f032438e.jar"
+        jar="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\libs\httpcore-4.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8dfd6286d04ad9dbf26cdf7d4ef5c8fad430cf30"/>
+
+</pre-dex-items>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res" >
+            <file
+                name="camera_icon"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\drawable\camera_icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="grid_color_selector"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\drawable\grid_color_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="osdmalogo"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\drawable\osdmalogo.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="splash"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\drawable\splash.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sync"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\drawable\sync.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_splash"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\layout\activity_splash.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="capture_layout"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\layout\capture_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="gallery_layout"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\layout\gallery_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_activity"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\layout\main_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="row_grid"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\layout\row_grid.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\values\colors.xml"
+                qualifiers="" >
+                <color name="grey" >#686868
+                </color>
+                <color name="blue" >#00abea
+                </color>
+                <color name="white" >#ffffff
+                </color>
+            </file>
+            <file
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >osdma
+                </string>
+                <string name="captured_img" >After user captures an image, it will be displayed here
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="capture" >Capture Photo
+                </string>
+            </file>
+            <file
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\build\generated\res\rs\release" />
+        <source path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\build\generated\res\generated\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\build-types\release\res" />
+    </dataSet>
+
+</merger>

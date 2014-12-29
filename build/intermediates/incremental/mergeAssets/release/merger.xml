@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\IBM_ADMIN\Desktop\PROJECTS\CLIENTS\CSC\WORKSPACE_25092014\osdma\build-types\release\assets" />
+    </dataSet>
+
+</merger>
