@@ -4,45 +4,78 @@
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:padding="10dip">
-          
-         <TextView android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:textColor="#372c24"
-                android:text="Full Name"/>
-          <EditText android:id="@+id/reg_fullname"
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="5dip"
-                android:singleLine="true"
-                android:layout_marginBottom="20dip"/>
-          <!--  Email Label -->
-          <TextView android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:textColor="#372c24"
-                android:text="Email"/>
-          <EditText android:id="@+id/reg_email"
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="5dip"
-                android:singleLine="true"
-                android:layout_marginBottom="20dip"/>
-          <!-- Password Label -->
-          <TextView android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:textColor="#372c24"
-                android:text="Password"/>
-          <EditText android:id="@+id/reg_password"
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:password="true"
-                android:singleLine="true"
-                android:layout_marginTop="5dip"/>
-          <!-- Register Button -->
-          <Button android:id="@+id/btnRegister"
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="10dip"
-                android:text="Register New Account"/>
- 
- 
+          <ScrollView android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              >
+            <LinearLayout android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical">
+                  
+              
+	         <TextView android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:textColor="#372c24"
+	                android:text="Full Name"/>
+	          <EditText android:id="@+id/reg_fullname"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_marginTop="5dip"
+	                android:singleLine="true"
+	                android:layout_marginBottom="10dip"/>
+	          
+	          <!-- Age Label -->
+	          <TextView android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:textColor="#372c24"
+	                android:text="Age"/>
+	          <EditText android:id="@+id/reg_age"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:inputType="numberDecimal"
+	                android:singleLine="true"
+	                android:layout_marginBottom="10dip"
+	                android:layout_marginTop="5dip"/>
+	          <!--  Phone Label -->
+	          <TextView android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:textColor="#372c24"
+	                android:text="Pin"/>
+	          <EditText android:id="@+id/reg_pin"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_marginTop="5dip"
+	                android:singleLine="true"
+	                android:inputType="numberPassword"
+	                android:layout_marginBottom="10dip"/>
+	          <!--  Phone Label -->
+	          <TextView android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:textColor="#372c24"
+	                android:text="Phone"/>
+	          <EditText android:id="@+id/reg_phone"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_marginTop="5dip"
+	                android:singleLine="true"
+	                android:inputType="numberDecimal"
+	                android:layout_marginBottom="10dip"/>
+			  <!--  Email Label -->
+	          <TextView android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:textColor="#372c24"
+	                android:text="Email"/>
+	          <EditText android:id="@+id/reg_email"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_marginTop="5dip"
+	                android:singleLine="true"
+	                android:layout_marginBottom="10dip"/>	
+	          <!-- Register Button -->
+	          <Button android:id="@+id/newRegister"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_marginTop="5dip"
+	                android:text="Register New Account"/>
+ 			</LinearLayout>
+ 		</ScrollView>
 </LinearLayout>
